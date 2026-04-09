@@ -3,6 +3,7 @@ pillow
 PyPDF2
 langchain
 langchain-openai
+langchain-text-splitters
 langchain-community
 faiss-cpu
 tiktoken
